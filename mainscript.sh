@@ -1,4 +1,3 @@
-# archreadme
 #!/bin/bash
 
 install_paru() {
